@@ -45,9 +45,6 @@ while True:
             
     if event == 'reset':
         window['outlines'].update('')
-        
-        
-    
     
     
 window.close()
